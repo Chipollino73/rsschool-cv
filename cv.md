@@ -8,10 +8,10 @@
 <ol>
 	<li> Phone number: +375 (29) 662-31-52</li>
 	<li>
-		<a href="https://vk.com/chipollino_73" target=_blank>My VK</a>
+		<a href="https://vk.com/chipollino_73" target="_blank">My VK</a>
 	</li>
 	<li>
-		<a href="mailto:vadzimluksha73@gmail.com" target=_blank>My E-mail</a>
+		<a href="mailto:vadzimluksha73@gmail.com" target="_blank">My E-mail</a>
 	</li>
 	<li>Telegram: @Chipollino73</li>
 	<li>Discord nickname: Vadzim Luksha (@Chipollino73)</li>
