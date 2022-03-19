@@ -44,6 +44,6 @@
 <h3>Languages:</h3>
 <ol>
 	<li><b>Russian</b> native</li>
-	<li><b>English</b> B1-B2. Usually watch videos fron native-speakers, talking skills are around A2-B1</li>
+	<li><b>English</b> B1-B2. Usually watch videos from native-speakers, talking skills are around A2-B1</li>
 	<li><b>Polish</b> A1-A2</li>
 </ol>
