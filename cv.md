@@ -22,7 +22,7 @@
 	<li>HTML&CSS</li>
 	<li>Basic JavaScript</li>
 	<li>Git&GitHub</li>
-	<li>usually use VSCode</li>
+	<li>VSCode</li>
 </ul>
 
 <h3>Code example:</h3>
